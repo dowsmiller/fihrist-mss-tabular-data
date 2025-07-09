@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_23256">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_23271">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -9,7 +9,7 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>Bodleian Library</publisher>
-                <date calendar="#Gregorian" when="2024-03-08">5 March 2024</date>
+                <date calendar="#Gregorian" when="2025-02-06">4 February 2025</date>
                 <pubPlace><address>
                         <addrLine>Department of Special Collections</addrLine>
                         <addrLine>Bodleian Library</addrLine>
@@ -33,42 +33,17 @@
                         <repository>Bodleian Library</repository>
                         <collection type="main">Oriental Manuscripts</collection>
                         <idno>MS. Bodl. Or. 103</idno>
-                        <idno type="ieArk">ark:29072/x08049g612nj</idno>
-                        <idno type="crArk">ark:29072/x08336h295z7</idno>
+                        <idno type="ieArk">ark:29072/x04q77fs95kb</idno>
+                        <idno type="crArk">ark:29072/x04t64gp78w6</idno>
                         <altIdentifier>
-                            <idno type="ethe">Ethé 2198</idno>
+                            <idno type="ethe">Ethé 2228</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Ottoman mecmūʿa containing the Short fragments of an Arabic-Turkish glossary, the Rūznāme-yi şühūr-ı şemsiye, and the Kitāb-ı Ṣuvarü l-ḥücce</summary>
+                        <summary>Short fragments of an Arabic-Turkish glossary</summary>
                         <textLang mainLang="ota">Ottoman Turkish</textLang>
                         <msItem xml:id="MS_Bodl_Or_103-item1" n="1">
-                            <locus from="43a" to="49b">folios 43a-49b</locus>
-                            <title key="work_23386">Rūznāme-yi şühūr-ı şemsiye</title>
-                            <title xml:lang="ota" key="work_23386">روزنامه شهور شمسيه</title>
-                            <note>NOTE: This record has been automatically generated with minimal
-                                modification from the corresponding entry in a printed catalogue. It
-                                may contain errors. Please, consult the References section below for
-                                more information.</note>
-                            <note>May be the same as the <ref target="https://www.fihrist.org.uk/catalog/work_23408">Rūznāme-yi Şeyḫ Vefā</ref>.</note>
-                            <listBibl>
-                                <bibl><ref
-                                        target="https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/775134"
-                                        >Ethé, Hermann. <title>Catalogue of the Persian, Turkish,
-                                            Hindûstânî and Pushtû Manuscripts in the Bodleian
-                                            Library, Part II: Turkish, Hindûstânî, Pushtû and
-                                            Additional Persian Manuscripts</title>. Oxford:
-                                        Clarendon Press. 1930. § (160) 2198.</ref></bibl>
-                            </listBibl>
-                            <textLang mainLang="ota">Ottoman Turkish</textLang>
-                        </msItem>
-                        <msItem xml:id="MS_Bodl_Or_103-item2" n="2">
-                            <locusGrp>
-                                <locus from="29a" to="30b">folios 29a-30b, </locus>
-                                <locus from="40b" to="41a">40b-41a </locus>
-                            </locusGrp>
-                            <title key="">Short fragments of an Arabic-Turkish glossary</title>
-                            <author key="person_f407">anonymous</author>
+                            <title>Short fragments of a third Arabic-Turkish glossary</title>
                             <note>NOTE: This record has been automatically generated with minimal
                                 modification from the corresponding entry in a printed catalogue. It
                                 may contain errors. Please, consult the References section below for
@@ -76,26 +51,18 @@
                             <note>Without alphabetical order; first word یکیت = شاب.</note>
                             <listBibl>
                                 <bibl><ref
-                                    target="https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/775134"
-                                    >Ethé, Hermann. <title>Catalogue of the Persian, Turkish,
-                                        Hindûstânî and Pushtû Manuscripts in the Bodleian
-                                        Library, Part II: Turkish, Hindûstânî, Pushtû and
-                                        Additional Persian Manuscripts</title>. Oxford:
-                                    Clarendon Press. 1930. § (190) 2228.</ref></bibl>
+                                        target="https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/775134"
+                                        >Ethé, Hermann. <title>Catalogue of the Persian, Turkish,
+                                            Hindûstânî and Pushtû Manuscripts in the Bodleian
+                                            Library, Part II: Turkish, Hindûstânî, Pushtû and
+                                            Additional Persian Manuscripts</title>. Oxford:
+                                        Clarendon Press. 1930. § (190) 2228.</ref></bibl>
                             </listBibl>
                             <textLang mainLang="ota">Ottoman Turkish</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Bodl_Or_103-item3" n="3">
-                            <locusGrp>
-                                <locus from="1a" to="25b">folios 1a-25b, </locus>
-                                <locus from="51a" to="59b">51a-59b </locus>
-                            </locusGrp>
-                            <title key="">Kitāb-ı ṣuvarü l-ḥücce</title>
+                        <msItem xml:id="MS_Bodl_Or_103-item2" n="2">
+                            <title key="">Kitāb-ı Ṣuvarü l-ḥücce</title>
                             <title xml:lang="ota" key="">کتاب صور الحجة</title>
-                            <author key="">
-                                <persName>ʿAlī bin Himmet bin Aydın bin Ḫalīl</persName>
-                                <persName>علی بن همت بن آیدین بن خلیل</persName>
-                            </author>
                             <incipit xml:lang="ota"> حمد لا يعدّ و ثناء بی حدّ اول خالق كائنات ورازق
                                 موجودات الخ</incipit>
                             <note>NOTE: This record has been automatically generated with minimal
@@ -127,12 +94,12 @@
                                 p. 82 sq., and Berlin Cat., p. 154; and Rieu, p. 16b.</note>
                             <listBibl>
                                 <bibl><ref
-                                    target="https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/775134"
-                                    >Ethé, Hermann. <title>Catalogue of the Persian, Turkish,
-                                        Hindûstânî and Pushtû Manuscripts in the Bodleian
-                                        Library, Part II: Turkish, Hindûstânî, Pushtû and
-                                        Additional Persian Manuscripts</title>. Oxford:
-                                    Clarendon Press. 1930. § (221) 2259.</ref></bibl>
+                                        target="https://menadoc.bibliothek.uni-halle.de/publicdomain/content/titleinfo/775134"
+                                        >Ethé, Hermann. <title>Catalogue of the Persian, Turkish,
+                                            Hindûstânî and Pushtû Manuscripts in the Bodleian
+                                            Library, Part II: Turkish, Hindûstânî, Pushtû and
+                                            Additional Persian Manuscripts</title>. Oxford:
+                                        Clarendon Press. 1930. § (221) 2259.</ref></bibl>
                             </listBibl>
                             <textLang mainLang="ota">Ottoman Turkish</textLang>
                         </msItem>
@@ -140,7 +107,7 @@
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="chart">
-                                <extent>59 folios <dimensions type="leaf" unit="cm" cert="low">
+                                <extent>29 folios <dimensions type="leaf" unit="cm" cert="low">
                                         <height>approximately 20.32</height>
                                         <width>approximately 132.08</width>
                                     </dimensions></extent>
@@ -150,6 +117,10 @@
                                     per page</layout>
                             </layoutDesc>
                         </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="naskh"><desc>Script:
+                                Nesḫ</desc></handNote>
+                        </handDesc>
                     </physDesc>
                     <history>
                         <origin>unknown</origin>

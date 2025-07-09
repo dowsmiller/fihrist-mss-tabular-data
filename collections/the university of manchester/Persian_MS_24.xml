@@ -9,7 +9,7 @@
                 <funder><orgName when="2014" ref="https://www.iranheritage.org/">Iran Heritage
                         Foundation</orgName></funder>
                 <funder>The John Rylands Research Institute</funder>
-                <funder from="2024" to="2024"><orgName ref="http://soudavar.org/">The Soudavar
+                <funder from="2024" to="2025"><orgName ref="http://soudavar.org/">The Soudavar
                         Memorial Foundation</orgName></funder>
             </titleStmt>
             <publicationStmt>
@@ -43,26 +43,33 @@
                         <institution>The University of Manchester</institution>
                         <repository>The John Rylands Research Institute and Library</repository>
                         <collection>Persian Manuscripts</collection>
+
                         <idno>Persian MS 24</idno>
+                        <altIdentifier type="former">
+                            <idno>Bibliotheca Lamoniana MS 348</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>De Sacy 302</idno>
+                        </altIdentifier>
                         <altIdentifier type="former">
                             <idno>Bland 34</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>Bibliotheca Lindesiana Shelf Mark: F/10</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno>De Sacy 302</idno>
-                        </altIdentifier>
+
                     </msIdentifier>
                     <msContents>
-                        <summary>This early copy of <title>Mihr va-Mushtarī</title> (Sun and
-                            Jupiter) by Muḥammad 'Aṣṣār Tabrīzī (d. ca. 1383) opens with a
-                            double-page frontispiece that portrays a princely hunting scene, and
-                            features five other illustrations as well. A date in the colophon, <date
-                                calendar="#Hijri-qamari" when="1386-02-19">10 Muḥarram 788 AH (11
-                                Feb. 1386 Julian)</date>, would be for the original completion of
-                            the work itself, not this manuscript which instead appears to date about
-                            a century later.</summary>
+                        <summary>This early manuscript of <title>Mihr va Mushtarī</title> (Sun and
+                            Jupiter), the tale of Mihr, son of Shāhpūr, and his vizier's son
+                            Mushtarī by <persName role="aut" key="person_31890001"
+                                ref="http://viaf.org/viaf/31890001/">Muḥammad 'Aṣṣār Tabrīzī (d. ca.
+                                1383)</persName>, opens with a double-page frontispiece that
+                            portrays a princely hunting scene and features five other illustrations.
+                            The date in the colophon, <date calendar="#Hijri-qamari"
+                                when="1386-02-19">10 Muḥarram 788 AH (11 Feb. 1386 Julian)</date>,
+                            is for when the author first completed the text, not this manuscript,
+                            which instead appears to date about a century later.</summary>
                         <msItem xml:id="Persian_MS_24-item1">
                             <author key="person_31890001" ref="http://viaf.org/viaf/31890001/">
                                 <persName xml:lang="fa-Latn-x-lc" type="standard">ʻAṣṣār Tabrīzī,
@@ -75,10 +82,11 @@
                                     (folio 2b):</locus> بنام پادشاه عالم عشق * که نام اوست نقش خاتم
                                 عشق | ثوابت راز عشقش داغ بر جهر * بجان چنین غمش را مشتری مهر </incipit>
                             <explicit xml:lang="fa">
-                                <locus from="228a" to="228a"> برگ ۲۲۸ر (folio 228a):</locus> چو دادی
+                                <locus from="220a" to="220a"> برگ ۲۲۰ر (folio 220a):</locus> چو دادی
                                 اوّلم ز ایمان سعادت * در آخر بر زبانم ران شهادت | نجتم انبیا دختم
                                 قرآن * که ختم کار ما بر خیر گردان. </explicit>
-                            <colophon xml:lang="fa"> تم الکتاب بعون الملک الصمد و الحمد لله الاحد و
+                            <colophon xml:lang="fa"><locus from="220a" to="220a"> برگ ۲۲۰ر (folio
+                                    220a):</locus> تم الکتاب بعون الملک الصمد و الحمد لله الاحد و
                                 الصلوة علی المصطفی خیر والد و ولد قد نقلت من نسخة قوبلها مع نسخه
                                 انتسخها المصنف بخط الشریف و قد کتب رحمة الله فی آخر الکتاب هذه
                                 العبارة فرغ من تمیق هذا الکتاب ناظمه و هو احقر عباد الله الغفار محمد
@@ -134,76 +142,68 @@
                                     <material>blue</material> subheaders. </handNote>
                         </handDesc>
                         <decoDesc>
-                            <summary>The volume opens with a double-page frontispiece rendered
-                                within an illuminated border on folios <locus from="1b" to="1Aa">1b
-                                    to 1Aa</locus>, in addition to five illustrations in the Turkman
+                            <summary>The volume opens with a double-page frontispiece within an
+                                illuminated border on folios <locus from="1b" to="1Aa">1b to
+                                    1Aa</locus>, in addition to five illustrations in the Turkman
                                 style.</summary>
-                            <decoNote type="illustration"><label>Paintings:</label>
-                                <list>
-                                    <item>Folios <locus from="1b" to="1Aa">1b to 1Aa</locus>:<lb/>
-                                        Outdoor hunt scene watched by a prince seated under an
-                                        umbrella on the horizon.<lb/> Each half measures:<lb/>
-                                        <dimensions type="illustration" unit="mm">
-                                            <height>140</height>
-                                            <width>57</width>
-                                        </dimensions><lb/>
-                                        <note>Published: Robinson, pp. 90–91, no. 425.</note>
-                                    </item>
-                                    <item>Folios <locus from="15a" to="15a">15a</locus>:<lb/> A
-                                        visit to a hermit depicts six figures and rocks that project
-                                        into the margins.<lb/>
-                                        <dimensions type="illustration" unit="mm">
-                                            <height>102</height>
-                                            <width>76</width>
-                                        </dimensions><lb/>
-                                        <note>Published: Robinson, p. 22, no. 426, Colour Plate
-                                            VI.</note>
-                                    </item>
-                                    <item>Folios <locus from="54b" to="54a">54b</locus>: Badr and
-                                        Mushtari, blindfolded and bound before the king, await
-                                        execution. The figure of the executioner appears badly
-                                            scrubbed:<lb/><dimensions type="illustration" unit="mm">
-                                            <height>95</height>
-                                            <width>63</width>
-                                        </dimensions><lb/>
-                                        <note> Published: Robinson, p. 92, no. 427. </note>
-                                    </item>
-                                    <item>Folios <locus from="94b" to="94a">94b</locus>: Battle with
-                                        the beast-men. Three mounted archers (including Mushtari,
-                                        crowned) charging from the left and six beast-men, two
-                                        wounded by arrows and the others hurling stones, represented
-                                        as wolf-like creatures.<lb/>
-                                        <dimensions type="illustration" unit="mm">
-                                            <height>104</height>
-                                            <width>57</width>
-                                        </dimensions><lb/><note> Published: Robinson, p. 92, no.
-                                            428. </note></item>
-                                    <item>Folios <locus from="134a" to="134a">134a</locus>: Mihr
-                                        plays the lute before King Kayvān enthroned
-                                            outdoors.<lb/><dimensions type="illustration" unit="mm">
-                                            <height>82</height>
-                                            <width>70</width>
-                                        </dimensions><lb/><note> Published: Robinson, p. 93, no.
-                                            429.</note></item>
-                                    <item>Folios <locus from="167b" to="167b">167b</locus>: The
-                                        battle between King Kayvān and Qaraā Khān.<lb/><dimensions
-                                            type="illustration" unit="mm">
-                                            <height>89</height>
-                                            <width>76</width>
-                                        </dimensions><lb/><note> Published: Robinson, p. 93, no.
-                                            430.</note>
-                                    </item>
-                                </list>
+                            <decoNote type="illustration"><label>Paintings:</label><lb/> Folios
+                                    <locus from="1b" to="1Aa">1b to 1Aa</locus>:<lb/> Outdoor hunt
+                                scene watched by a prince seated under an umbrella on the
+                                horizon.<lb/> Each half measures:<lb/>
+                                <dimensions type="illustration" unit="mm">
+                                    <height>140</height>
+                                    <width>57</width>
+                                </dimensions><lb/>
+                                <note>Published: <bibl>Robinson, pp. 90–91, no.
+                                425.</bibl></note><lb/><lb/> Folio <locus from="15a" to="15a"
+                                    >15a</locus>:<lb/> A visit to a hermit depicts six figures and
+                                rocks that project into the margins.<lb/>
+                                <dimensions type="illustration" unit="mm">
+                                    <height>102</height>
+                                    <width>76</width>
+                                </dimensions><lb/>
+                                <note>Published: <bibl>Robinson, p. 22, no. 426, Colour Plate
+                                        VI.</bibl></note><lb/><lb/> Folio <locus from="54b" to="54a"
+                                    >54b</locus>: Badr and Mushtari, blindfolded and bound before
+                                the king, await execution. The figure of the executioner appears
+                                badly scrubbed:<lb/><dimensions type="illustration" unit="mm">
+                                    <height>95</height>
+                                    <width>63</width>
+                                </dimensions><lb/>
+                                <note> Published: <bibl>Robinson, p. 92, no. 427.</bibl>
+                                </note><lb/><lb/> Folio <locus from="94b" to="94a">94b</locus>:
+                                Battle with the beast-men. Three mounted archers (including
+                                Mushtari, crowned) charging from the left and six beast-men, two
+                                wounded by arrows and the others hurling stones, represented as
+                                wolf-like creatures.<lb/>
+                                <dimensions type="illustration" unit="mm">
+                                    <height>104</height>
+                                    <width>57</width>
+                                </dimensions><lb/><note> Published: <bibl>Robinson, p. 92, no.
+                                        428.</bibl>
+                                </note><lb/><lb/> Folio <locus from="134a" to="134a">134a</locus>:
+                                Mihr plays the lute before King Kayvān enthroned
+                                    outdoors.<lb/><dimensions type="illustration" unit="mm">
+                                    <height>82</height>
+                                    <width>70</width>
+                                </dimensions><lb/><note> Published: <bibl>Robinson, p. 93, no.
+                                        429.</bibl></note><lb/><lb/> Folio <locus from="167b"
+                                    to="167b">167b</locus>: The battle between King Kayvān and Qaraā
+                                    Khān.<lb/><dimensions type="illustration" unit="mm">
+                                    <height>89</height>
+                                    <width>76</width>
+                                </dimensions><lb/><note> Published: <bibl>Robinson, p. 93, no.
+                                        430.</bibl></note>
                             </decoNote>
                             <decoNote type="carpetPage"><label>Illumination:</label> Folios <locus
                                     from="1b" to="2a">1b to 2a</locus> bear elaborately illuminated
-                                matching carpet pages that feature the central lines outlined in
-                                gold cloud bands, surrounded by ultramarine blue fields bearing
-                                floral palmette scrollwork designes. Four gold cartouches above and
-                                below the text contain the title and praise the author in white
-                                riqā‘ script. The margins ruled in gold outlined in thin black
-                                single lines, surrounded by a single blue line and perpendicular
-                                decorative radiating lines.</decoNote>
+                                matching carpet pages with the central lines outlined in gold cloud
+                                bands, surrounded by ultramarine blue fields bearing floral palmette
+                                scrollwork designes. Four gold cartouches above and below the text
+                                contain the title and praise the author in white riqā‘ script. The
+                                margins ruled in gold outlined in thin black single lines,
+                                surrounded by a single blue line and perpendicular decorative
+                                radiating lines.</decoNote>
                             <decoNote type="marginal"><label>Ruling:</label> Central text ruled in
                                     <material>gold</material> outlined with thin single internal and
                                 double external red lines, surrounded by comparatively bold blue
@@ -212,37 +212,36 @@
                                 lines, as well as the exterior margins.</decoNote>
                         </decoDesc>
                         <additions><lb/>
-                            <label>Inscriptions:</label><list>
-                                <item>
-                                    <locus from="1a" to="1a">1a</locus>, top bears the numbers <q
-                                        xml:lang="en">281</q> and <q xml:lang="en">Sy 302</q>; the
-                                    latter reappears on the <locus from="ib" to="ib">right flyleaf b
-                                        side (f. ib)</locus> and pertains to former owner <persName
-                                        type="standard" ref="http://viaf.org/viaf/51695910"
-                                        key="person_51695910">Silvestre de Sacy </persName>'s
-                                    catalogue.</item>
-                                <item>The <locus from="ia" to="ia">right flyleaf a side (f.
-                                        ia)</locus>, top bears notations <q xml:lang="en">aiz+</q>
-                                    and <q xml:lang="en">ei</q>.</item>
-                            </list>
-                            <label>Bookplates:</label><list><item>The <locus from="ib" to="ib">right flyleaf b
-                                side (f. ib)</locus> : <q xml:lang="en">Bibliotheca
-                                    Lindesiana</q> with the shelfmark <q xml:lang="en"
-                                        >F/10</q></item>
-                                <item n="3">The <locus from="Inner_back_cover" to="Inner_back_cover"
-                                    >left doublure</locus>: <q xml:lang="en"><hi
-                                        rend="strikethrough">Bland</hi> MSS <hi
-                                            rend="strikethrough">34</hi></q>, with the name and
-                                    number crossed out and <q xml:lang="en">Persian</q> and <q
-                                        xml:lang="en">24</q> written aside.</item>
-                            </list>
-                        </additions>
+                            <label>Inscriptions:</label>
+                            <locus from="1a" to="1a">1a</locus>, top bears the numbers <q
+                                xml:lang="fr">281</q> and <q xml:lang="fr">Sy 302</q>; the latter
+                            again on the <locus from="ib" to="ib">right flyleaf b side (f.
+                                ib)</locus>, which pertain to former owner <persName type="standard"
+                                ref="http://viaf.org/viaf/51695910" key="person_51695910">Silvestre
+                                de Sacy </persName>'s catalogue.<lb/> The <locus from="ia" to="ia"
+                                >right flyleaf a side (f. ia)</locus>, top, bears notations <q
+                                xml:lang="en">aiz+</q> and <q xml:lang="en">ei</q>.<lb/>
+                            <label>Bookplates:</label> The <locus from="ib" to="ib">right flyleaf b
+                                side (f. ib)</locus>: <q xml:lang="en">Bibliotheca Lindesiana</q>
+                            with the shelfmark <q xml:lang="en">F/10</q><lb/> The <locus
+                                from="Inner_back_cover" to="Inner_back_cover">left doublure</locus>:
+                                <q xml:lang="en"><hi rend="strikethrough">Bland</hi> MSS <hi
+                                    rend="strikethrough">34</hi></q>, with the name and number
+                            crossed out and <q xml:lang="en">Persian</q> and <q xml:lang="en">24</q>
+                            written aside. </additions>
                         <bindingDesc>
                             <binding notBefore="1475" notAfter="1650">
                                 <p>Very finely decorated Safavid-era binding, possibly 17th century,
-                                    with the <locus from="Spine" to="Spine">spine</locus> seemingly
-                                    replaced in <date cert="high" from="1701" to="1800"
-                                        >18th-century</date> France.</p>
+                                    with the <locus from="Spine" to="Spine">spine</locus> replaced
+                                    in <date cert="high" from="1701" to="1800">18th-century</date>
+                                    France, probably on behalf of former owner <persName
+                                        ref="https://viaf.org/en/viaf/27161049"
+                                        key="person_27161049" role="fmo seal">Chrétien-François de
+                                        Lamoignon (1735–1789)</persName>, by a member of the
+                                    Parisian Anguerrand family of binders to the French court,
+                                    possibly <persName role="bnd" key="">Étienne II Anguerrand (fl.
+                                        1750–1784)</persName> whose work remains largely
+                                    unidentified.</p>
                                 <p>Sewn at two stations, unsupported. Edges trimmed and chevron
                                     endbands twined at <locus from="Head" to="Head">head</locus> and
                                         <locus from="Tail" to="Tail">tail</locus>. Covered in full
@@ -254,32 +253,46 @@
                                     pendants and corner-pieces embossed with floral arabesques,
                                     while the interior doublures appear similar, with one or two
                                     leaves etc. picked out in blue. Replaced <locus from="Spine"
-                                        to="Spine">spine</locus> bears a crest with a castle and
-                                    titling executed in France: <q>AMOURS DE MEHER EN LANGUE
-                                        PERSIENNE</q>. </decoNote>
+                                        to="Spine">spine</locus> bears a castle insignia in the tail
+                                    panel and French title: <quote xml:lang="fr">AMOURS<lb/>DE
+                                        MEHER<lb/> EN LANGUE<lb/>PERSIENNE</quote>. </decoNote>
                                 <p><dimensions type="binding" unit="mm">
                                         <height>230</height>
                                         <width>128</width>
                                         <depth>41</depth>
                                     </dimensions></p>
                                 <condition>Handle binding with caution. The <locus
-                                        from="Upper_cover" to="Upper_cover">right board</locus>
-                                    detached, the <locus from="Lower_cover" to="Lower_cover">left
+                                        from="Front_cover" to="Front_cover">right board</locus>
+                                    detached, the <locus from="Back_cover" to="Back_cover">left
                                         board</locus> cracking. Tailband missing, sewing loose at
                                     the font, and very tight with opening to the gutter margins
                                     restricted. Boxed.</condition>
                             </binding>
                         </bindingDesc>
                         <sealDesc>
+                            <summary>Folios <locus from="1Aa" to="1Aa">1a</locus>, <locus from="2b"
+                                    to="2b">2b</locus>, <locus from="219a" to="219a">219a</locus>,
+                                    <locus from="220b" to="220b">220b</locus> all bear impressions
+                                of the <orgName ref="http://viaf.org/viaf/148184022"
+                                    key="person_148184022">Bibliotheca Lamoniana</orgName>
+                                monogrammed signet, applied in a hasty, haphazard manner, probably
+                                on behalf of the last member of the family to possess it, <persName
+                                    ref="https://viaf.org/en/viaf/27161049" key="person_27161049"
+                                    role="fmo seal">Chrétien-François de Lamoignon</persName>. The
+                                same also appears on Rylands <ref
+                                    target="https://stage.digitalcollections.manchester.ac.uk/view/PR-SPCC-08584/9"
+                                    >SPCC PR 8584</ref>; see also <ref
+                                    target="https://www.marquesdecollections.fr/FtDetail/0a7bbe68-c6ad-5243-8bc9-c5f56fbdff3f"
+                                    >Lugt 5137</ref>.</summary>
                             <seal type="stamp" subtype="monogram">
-                                <p>A European relief-cut monogram of the letter L surmounted by a
-                                    coronet appears impressed upon folios <locus from="1a" to="1a"
-                                        >1a</locus>, <locus from="2b" to="2b">2b</locus>, <locus
-                                        from="219a" to="219a">219a</locus>, <locus from="220b"
-                                        to="220b">220b</locus>:<lb/>
+                                <p>European relief-cut <ref
+                                        target="https://image.digitalcollections.manchester.ac.uk/iiif/MS-PERSIAN-00024-000-00005.jp2/1476,253,591,712/full/0/default.jpg"
+                                        >monogram with the letter L, surmounted by a coronet within
+                                        an oval with internal v-shaped crenellations,
+                                        single-ruled</ref>.<lb/>
                                     <dimensions type="seal" unit="mm">
                                         <height>22</height>
-                                        <width>18</width>
+                                        <width>19</width>
                                     </dimensions>
                                 </p>
                             </seal>
@@ -288,50 +301,70 @@
                     <history>
                         <origin>Probably completed in <origPlace
                                 ref="http://vocab.getty.edu/page/tgn/7000231" key="place_7000231"
-                                >Greater Iran</origPlace> the date of <date calendar="#Hijri-qamari"
-                                when="1386-02-19">10 Muḥarram 788 AH (11 Feb. 1386 Julian)</date>
-                            given in the colophon appears to be that for the work's completion, not
-                            this manuscript which may date <origDate cert="medium"
+                                >Greater Iran</origPlace> possibly <origDate cert="medium"
                                 calendar="#Gregorian" notBefore="1450" notAfter="1500">late 15th
-                                century CE</origDate>.</origin>
+                                century CE</origDate>. The date of <date calendar="#Hijri-qamari"
+                                when="1386-02-19">10 Muḥarram 788 AH (11 Feb. 1386 Julian)</date>,
+                            which appears in the colophon, is for the completion of this work by the
+                            author but not for this manuscript.</origin>
                         <provenance>
                             <p>While the circumstances under which this manuscript arrived in Europe
-                                remains unclear, a subsequent, possibly French, owner acquired it
-                                from an unidentified sources and impressed a monogram with the
-                                capital letter L on four folios.</p>
-                        </provenance>
-                        <provenance><p>Subsequently obtained by French orientalist <persName
-                                    type="standard" ref="http://viaf.org/viaf/51695910"
-                                    key="person_51695910" role="fmo" change="#role-assignment"
-                                    >Antoine-Isaac Silvestre de Sacy
-                            (1758-1838).</persName></p></provenance>
-                        <provenance><p>After de Sacy's death, presumably inherited by his son
-                                    <persName role="fmo" ref="http://viaf.org/viaf/29658127"
-                                    key="person_29658127"> Samuel Ustazade Silvestre de Sacy (d.
-                                    1879)</persName>, who sold many of his father's oriental
+                                remain unclear, a member of the French Lamoignon family acquired it
+                                for the <orgName ref="http://viaf.org/viaf/148184022"
+                                    key="person_148184022">Bibliotheca Lamoniana</orgName>, probably
+                                sometime in the <date cert="high" notBefore="1675" notAfter="1794"
+                                    >eighteenth century</date>. Four monogrammed seal impressions
+                                appear in the volume, most likely added in a hurried fashion on
+                                behalf of the last member of the family, <persName
+                                    ref="https://viaf.org/en/viaf/27161049" key="person_27161049"
+                                    role="fmo seal">Chrétien-François de Lamoignon
+                                    (1735–1789)</persName>, who describes it as <q xml:lang="fr"
+                                    >Muur Mustery: Livre en langue Perſienne</q>in his 1770 library
+                                catalogue, p. 475.</p></provenance>
+                        <provenance><p>After de Lamoignon's death, Parisian antiquarian bookseller
+                                    <persName role="bsl fmo" key="person_46858532"
+                                    ref="https://viaf.org/en/viaf/46858532">Jean-Gabriel Mérigot
+                                    (1738–1818)</persName> acquired the <orgName
+                                    ref="http://viaf.org/viaf/148184022" key="person_148184022"
+                                    >Bibliotheca Lamoniana</orgName> then published a catalogue in
+                                    <date calendar="#Gregorian" when="1791">1791</date>, (for this
+                                manuscript see Vol. 2, p. 39, no. 348) then likely sold the volume
+                                to French orientalist <persName type="standard"
+                                    ref="http://viaf.org/viaf/51695910" key="person_51695910"
+                                    role="fmo" change="#role-assignment">Antoine-Isaac Silvestre de
+                                    Sacy (1758-1838)</persName>.</p></provenance>
+                        <provenance><p>After de Sacy's death, his son <persName role="fmo"
+                                    ref="http://viaf.org/viaf/29658127" key="person_29658127">
+                                    Samuel Ustazade Silvestre de Sacy (d. 1879)</persName>
+                                presumably inherited then sold many of his father's oriental
                                 manuscripts through Parisian booksellers <persName role="bsl auc"
                                     ref="http://viaf.org/viaf/75238691" key="person_75238691">Romain
                                     Merlin (1793–1871)</persName> and <persName role="bsl auc"
                                     ref="http://viaf.org/viaf/56958724" key="person_56958724"
-                                    >Grangeret de la Grange, (1790-1859)</persName> on <date
+                                    >Grangeret de la Grange, (1790-1859)</persName> in <date
                                     calendar="#Gregorian" when="1843">1843</date> (no. 302), where
                                 an individual named 'Moore' purchased it.</p></provenance>
                         <provenance><p>Thereafter acquired by scholar <persName type="standard"
                                     role="fmo" ref="http://viaf.org/viaf/20108923/"
-                                    key="person_20108923">Nathaniel Bland (1803–1865)</persName>
-                                purchased it then brought it to his home at
-                            Britain.</p></provenance>
-                        <provenance><p>After Bland's death, <placeName
+                                    key="person_20108923">Nathaniel Bland (1803–1865)</persName> for
+                                his library at Randalls Park, <placeName
+                                    ref="http://vocab.getty.edu/page/tgn/7011735"
+                                    key="place_7011735">Leatherhead</placeName>.</p></provenance>
+                        <provenance>
+                            <p>After Bland's death, <placeName
                                     ref="http://vocab.getty.edu/page/tgn/7011781"
                                     key="place_7011781">London</placeName> bookseller <persName
-                                    type="standard" role="bsl" ref="http://viaf.org/viaf/5679225/"
+                                    role="bsl" ref="http://viaf.org/viaf/5679225/"
                                     key="person_5679225">Bernard Quaritch (1819–1899)</persName>
-                                sold his oriental manuscripts to <persName type="standard"
-                                    role="fmo" ref="http://viaf.org/viaf/97751058/"
-                                    key="person_97751058">Alexander Lindsay, 25th Earl of Crawford
-                                    (1812–1880)</persName> in <date calendar="#Gregorian"
-                                    when="1866">1866</date>.</p>
-                        </provenance>
+                                sold his oriental manuscripts to <persName role="fmo"
+                                    ref="http://viaf.org/viaf/97751058/" key="person_97751058"
+                                    >Alexander Lindsay, 25th Earl of Crawford (1812–1880)</persName>
+                                in <date calendar="#Gregorian" when="1866-06">June, 1866</date>,
+                                paid in two instalments of £450 and £400, and then moved to <orgName
+                                    ref="http://viaf.org/viaf/295427552" key="person_295427552"
+                                    >Bibliotheca Lindesiana</orgName> at Haigh Hall, <placeName
+                                    ref="http://vocab.getty.edu/page/tgn/7010384"
+                                    key="place_7010384">Wigan</placeName>. </p></provenance>
                         <provenance>Purchased by <persName type="standard" role="dnr"
                                 key="person_f6379">Enriqueta Rylands (1843–1908)</persName> in <date
                                 calendar="#Gregorian" when="1901">1901</date> from <persName
@@ -372,7 +405,17 @@
                                             ref="http://viaf.org/viaf/22161693743415930845"
                                             key="person_22161693743415930845">Jake Benson</persName>
                                         in <date calendar="#Gregorian" when="2024">2024</date> with
-                                        reference to the volume in hand.</p>
+                                        reference to the volume in hand, and in consultation with
+                                        Prof <persName role="csl"
+                                            ref="http://viaf.org/viaf/97145003909161340810"
+                                            key="person_97145003909161340810">Majid
+                                            Daneshgar</persName>, Kyoto University, and antiquarian
+                                            <persName ref="http://viaf.org/viaf/94283525"
+                                            key="person_94283525" role="csl"
+                                            >William S. Cotter</persName> regarding the <orgName
+                                            ref="http://viaf.org/viaf/148184022"
+                                            key="person_148184022">Bibliotheca Lamoniana</orgName>
+                                        seal impressions.</p>
                                 </source>
                             </recordHist>
                             <availability status="restricted">
@@ -393,16 +436,49 @@
                                 </custEvent>
                             </custodialHist>
                         </adminInfo>
-                        <!-- Add after MDC upload <surrogates>
-                            <bibl subtype="full" type="digital-facsimile">
+                        <surrogates><bibl subtype="full" type="digital-facsimile">
                                 <ref
                                     target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-00024/">
                                     <title>Manchester Digital Collections</title>
                                 </ref>
                                 <note>(full digital facsimile)</note>
                             </bibl>
-                        </surrogates> -->
+                        </surrogates>
                         <listBibl>
+                            <bibl>P. Brillard, '<ref
+                                    target="https://publicationscalamar.wordpress.com/2016/02/05/la-reliure-a-la-lamoignon/"
+                                    >La reliure à la Lamoignon</ref>' <title>Doucet, illustrateurs,
+                                    Didot et autres…</title> (<date calendar="#Gregorian"
+                                    when="2016">2016</date>).</bibl>
+                            <bibl>J. P. Fontaine '<ref
+                                    target="https://histoire-bibliophilie.blogspot.com/2013/08/bibliotheca-lamoniana_1.html"
+                                    >Bibliotheca Lamoniana</ref>' <title>Histoire
+                                    bibliophilie</title> (<date calendar="#Gregorian" when="2013"
+                                    >2013</date>).</bibl>
+                            <bibl>P. Fuhring '<ref
+                                    target="https://www.fondationcustodia.fr/E-news-12#article2189"
+                                    >A Volume of Prints from the Library of Guillaume de
+                                    Lamoignon</ref>' <title>Fondation Custoda E-News</title> No. 12
+                                    (<date calendar="#Gregorian" when="2019-09">Sept.
+                                2019</date>).</bibl>
+                            <bibl> C. F. Lamoignon and L. F. Delatour, <title level="m">Catalogue
+                                    des livres imprimes et manuscrits de la bibliotheque de M. de
+                                    Lamoignon, president du Parlement. Avec une table alphabétique
+                                    des auteurs</title>
+                                <title type="sub">Histoire §3. III. Livres en Langue
+                                    Orientale</title> (<pubPlace>Paris</pubPlace>: <publisher>L. F.
+                                    Delatour</publisher>, <date calendar="#Gregorian" when="1770"
+                                    >1770</date>), p. <biblScope><ref
+                                        target="https://gallica.bnf.fr/ark:/12148/btv1b86263519/f525.item"
+                                        >475</ref></biblScope>. </bibl>
+                            <bibl>[C. F. Lamoignon and L. F. Delatour], <title level="m">Catalogue
+                                    des livres de la bibliotheque de feu M. de Lamoignon, Garde des
+                                    Sceaux de France</title>, Tome 2 <title type="sub">Catalogue
+                                    particulier des manuscrits</title> (<pubPlace>Paris</pubPlace>:
+                                    <publisher>Mérigot jeune</publisher>, <date
+                                    calendar="#Gregorian" when="1791">1791</date>), <biblScope><ref
+                                        target="https://gallica.bnf.fr/ark:/12148/bpt6k1512976h/f423.image"
+                                        >p. 39, no. 348</ref></biblScope>. </bibl>
                             <bibl>H. Massé, 'ʿAṣṣār, Shams al-Dīn Muḥammad', <title level="s"
                                     >Encyclopaedia of Islam,</title> 2<hi rend="superscript">nd</hi>
                                 ed., Vol. 1 (<date calendar="#Gregorian" when="1986">1986</date>),
@@ -414,8 +490,8 @@
                                 'Manuscrits' (<pubPlace>Paris</pubPlace>: <publisher>Imprimerie
                                     Royale</publisher>, <date calendar="#Gregorian" when="1842"
                                     >1842</date>), <biblScope><ref
-                                        target="https://books.google.co.uk/books?id=nrNLKRj8j2kC&amp;pg=RA1-PA51"
-                                        >pp. 51–52, no. 282</ref></biblScope>. </bibl>
+                                        target="https://books.google.co.uk/books?id=nrNLKRj8j2kC&amp;pg=RA1-PA51#v=onepage&amp;q&amp;f=false"
+                                        >pp. 51–52, no. 302</ref></biblScope>. </bibl>
                             <bibl> C. Rieu, <title level="s">Catalogue of the Persian Manuscripts in
                                     the British Museum</title>, Vol. II
                                 (<pubPlace>London</pubPlace>: <publisher>British Museum</publisher>,
@@ -486,6 +562,11 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2025-06-16">
+                <persName>Jake Benson</persName> Updated provenance, bibliography, and binding after
+                identifying the Bibliotheca Lamoniana seal impression.</change>
+            <change when="2025-06-12">
+                <persName>Jake Benson</persName> Minor corrections.</change>
             <change when="2024-07-24">
                 <persName>Jake Benson</persName> Corrected and augmented decoDesc and bibl. </change>
             <change when="2024-07-19">

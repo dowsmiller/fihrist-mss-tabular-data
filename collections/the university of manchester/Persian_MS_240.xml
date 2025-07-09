@@ -192,7 +192,20 @@
                         follows, and it does not conform with Jones' handwriting. Whether copied by
                         another European orientalist under a pseudonym remains undetermined.
                         Therefore, this record treats the colophon as authentic, until proven
-                        otherwise. </note>
+                        otherwise. For other volumes that Jones formerly owned now held in
+                        the Rylands, see <ref
+                           target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-00010/"
+                           ><idno>Persian MS 10</idno></ref>, <ref
+                              target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-00133/"
+                              ><idno>Persian MS 133</idno></ref>, <ref
+                                 target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-000187"
+                                 >187</ref>, <ref
+                                    target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-000192"
+                                    >192</ref>, <ref
+                                       target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-000219"
+                                       >219</ref>, <ref target="https://www.fihrist.org.uk/catalog/manuscript_6752">265</ref>, and <ref
+                                             target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-000340"
+                                             >340</ref>. </note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -385,7 +398,7 @@
                               <email>uml.special-collections@manchester.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
-                  <!-- <surrogates>
+                  <surrogates>
                      <bibl subtype="full" type="digital-facsimile">
                         <ref
                            target="https://www.digitalcollections.manchester.ac.uk/view/MS-PERSIAN-00240/">
@@ -394,11 +407,8 @@
                         <note>(full digital facsimile)</note>
                      </bibl>
                   </surrogates>
-                  -->
                   <listBibl>
-                     <!--  Add to MDC record <bibl> View the record for this manuscript on <ref
-                        target="https://www.fihrist.org.uk/catalog/manuscript_6725"
-                        >Fihrist</ref>. </bibl>-->
+                     
                      <bibl> Mr. [R. H.] Evans, <title>Catalogue of the Library of the Late Sir
                            William Jones, Judge of the Supreme Court of Bengal, and President of the
                            Asiatic Society : with the Books Added Subsequently to His Death, by His
@@ -485,6 +495,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2025-06-13">
+            <persName>Jake Benson</persName> Corrections and amendments ahead of MDC
+            upload.</change>
          <change when="2024-07-19">
             <persName>Jake Benson</persName> Amended and enhanced after imaging and in preparation
             for upload to MDC.</change>
