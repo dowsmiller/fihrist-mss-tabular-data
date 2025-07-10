@@ -34,3 +34,4 @@ env/
 
 # Ignore WIP files
 /tabular_data/work_in_progress
+/tabular_data/app/uploads
